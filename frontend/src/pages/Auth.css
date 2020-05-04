@@ -1,0 +1,26 @@
+.auth-form {
+  width: 25rem;
+  max-width: 80%;
+  margin: 5rem auto;
+}
+
+.show{
+  display: block;
+}
+.hide{
+  display: none;
+}
+.react-datepicker-wrapper{
+  margin-bottom: 20px;
+}
+.error{
+  color: brown;
+}
+.message{
+  color:green;
+  margin-bottom: 20px;
+}
+
+.nameerr{
+  float: right;
+}

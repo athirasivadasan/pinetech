@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "pinetech_user",
+        "MONGO_PASSWORD": "9tSSG548CT081Bak",
+        "MONGO_DB": "pinetech"
+    }
+}
